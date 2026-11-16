@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- stacked "episodes" -->
+    <path android:fillColor="#6C63FF" android:pathData="M38,26H70V31H38Z" />
+    <path android:fillColor="#8F88FF" android:pathData="M33,34H75V39H33Z" />
+    <!-- main card -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M32,41H76A4,4 0 0 1 80,45V65A4,4 0 0 1 76,69H32A4,4 0 0 1 28,65V45A4,4 0 0 1 32,41Z" />
+    <!-- play triangle -->
+    <path android:fillColor="#14142B" android:pathData="M49,47L49,63L63,55Z" />
+    <!-- download badge -->
+    <path android:fillColor="#00D1B2"
+        android:pathData="M74,62A10,10 0 1 1 74,82A10,10 0 1 1 74,62Z" />
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="2.6"
+        android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M74,67V76M70,72.5L74,76.5L78,72.5" />
+</vector>

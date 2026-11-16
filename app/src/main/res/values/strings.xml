@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Series Grabber</string>
+    <string name="hint_url">Link: first video, playlist or profile</string>
+    <string name="hint_name">Output name (optional)</string>
+    <string name="opt_marker">Only videos with Part / Ep number</string>
+    <string name="opt_reverse">Feed is newest-first (reverse order)</string>
+    <string name="start">Download &amp; merge</string>
+    <string name="cancel">Cancel</string>
+</resources>
